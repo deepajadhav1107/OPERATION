@@ -2,3 +2,5 @@ a=10
 b=2
 sum=a+b
 print("sum",sum)
+sub=a-b
+print("AUB",sub)
